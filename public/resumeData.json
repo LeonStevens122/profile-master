@@ -95,7 +95,7 @@
         "title": "DJANGO + React Lead Manager",
         "category": "Lead Manager , Django Back-end, React Front-end, SQLite database, Bootstrap styling",
         "image": "https://raw.githubusercontent.com/LeonStevens122/React-Django-Full-Stack/master/LeadManager.PNG",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://django-react-lead-manager.herokuapp.com/"
       },
       {
         "title": "Amazon Clone - built with React & Firebase",
