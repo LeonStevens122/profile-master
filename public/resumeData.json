@@ -2,7 +2,7 @@
   "main": {
     "name": "Leon Stevens",
     "occupation": "ReactJS && Django Developer ",
-    "description": "Full Stack React Developer by Day, Freelancer by Night. ",
+    "description": "Full Stack React Developer by Day, Freelancer by Night.  I get stuff done",
     "image": "profile.jpg",
     "bio": "My name is Leon, I'm a Full Stack ReactJS & Django Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -16,7 +16,8 @@
     },
     "website": "https://leon-profile.herokuapp.com/",
     "resumedownload": "https://github.com/LeonStevens122/updated-profile/raw/master/public/Leon%20Stevens%20CV%202020.pdf",
-    "social": [{
+    "social": [
+      {
         "name": "facebook",
         "url": "https://www.facebook.com/leon.stevens.3517",
         "className": "fa fa-facebook"
@@ -36,27 +37,30 @@
   },
   "resume": {
     "skillmessage": "Breakdown of my skill Set",
-    "education": [{
-      "school": "Hyperion Development",
-      "degree": "Full Stack Web Developer Bootcamp MERN Stack",
-      "graduated": "May 2020",
-      "description": "Comprehensive full stack web development course HTML, CSS, JavaScript, Node.js, MongoDB, Express and React"
-    }],
-    "work": [{
+    "education": [
+      {
+        "school": "Hyperion Development",
+        "degree": "Full Stack Web Developer Bootcamp MERN Stack",
+        "graduated": "May 2020",
+        "description": "Comprehensive full stack web development course HTML, CSS, JavaScript, Node.js, MongoDB, Express and React"
+      }
+    ],
+    "work": [
+      {
         "company": "Lasher Tools ",
         "title": "Buyer",
         "years": "March 2015 - October 2019",
         "description": "Supply chain & Data management"
       }
-
     ],
-    "skills": [{
+    "skills": [
+      {
         "name": "ReactJs",
         "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "Git",
@@ -85,7 +89,8 @@
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
         "title": "Django Craigslist Viewer",
         "category": "CraigsList Viewer - Built using Python, Django & Materialize)",
         "image": "https://github.com/LeonStevens122/React-Profile/blob/master/public/craigsList.jpg?raw=true",
@@ -109,13 +114,14 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Emacs_Tetris_vector_based_detail.svg",
         "url": "https://secret-island-56752.herokuapp.com/"
       }
-
     ]
   },
   "testimonials": {
-    "testimonials": [{
-      "text": "That Leon Stevens must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-      "user": "Steve Wozniak... impersonator"
-    }]
+    "testimonials": [
+      {
+        "text": "That Leon Stevens must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
   }
 }
