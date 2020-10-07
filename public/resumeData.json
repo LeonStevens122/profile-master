@@ -32,6 +32,7 @@
         "url": "https://github.com/LeonStevens122/",
         "className": "fa fa-github"
       }
+
     ]
   },
   "resume": {
@@ -50,11 +51,20 @@
     }],
     "skills": [{
         "name": "ReactJs",
-        "level": "90%"
+        "level": "90%",
+        "skillImage": "icons8-react-native-96.png"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -100,6 +110,12 @@
         "category": "Amazon Clone - Biult with React & Firebase",
         "image": "https://raw.githubusercontent.com/LeonStevens122/amazon-clone/master/public/Amazon-clone.png",
         "url": "https://clone-37290.web.app/"
+      },
+      {
+        "title": "MEAN - RSVP App",
+        "category": "RSVP APP - Auth0 Authentication, MongoDB, NodeJS server, Angular front End ",
+        "image": "https://github.com/LeonStevens122/MEAN-RSVP/blob/master/src/assets/event-rsvp-noForm.jpg?raw=true",
+        "url": "https://leon-mean-rsvp.herokuapp.com/"
       },
       {
         "title": "Tetris Game",
