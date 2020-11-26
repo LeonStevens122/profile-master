@@ -15,8 +15,8 @@
       "zip": "1502"
     },
     "website": "https://leon-profile.herokuapp.com/",
-    
-    "resumedownload": "https://github.com/LeonStevens122/profile-master/blob/master/public/CV/Resume-Leon-Stevens%20Nov%202020.pdf",
+                  
+    "resumedownload": "https://github.com/LeonStevens122/profile-master/raw/master/public/CV/Resume-Leon-Stevens%20Nov%202020.pdf",
     "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/leon.stevens.3517",
