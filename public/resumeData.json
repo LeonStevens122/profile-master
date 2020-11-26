@@ -9,10 +9,10 @@
     "email": "stevens.leon@ymail.com",
     "phone": "+27 79 490 8518",
     "address": {
-      "street": "34 Hibiscus Avenue",
-      "city": "Cape Town",
+      "street": "",
+      "city": "Johannesburg",
       "state": "South Africa",
-      "zip": "7150"
+      "zip": "1502"
     },
     "website": "https://leon-profile.herokuapp.com/",
     "resumedownload": "https://github.com/LeonStevens122/profile-master/raw/master/public/CV/Leon%20Stevens%20CV%202020.pdf",
@@ -42,8 +42,38 @@
       "degree": "Full Stack Web Developer Bootcamp MERN Stack",
       "graduated": "May 2020",
       "description": "Comprehensive full stack web development course HTML, CSS, JavaScript, Node.js, MongoDB, Express and React"
-    }],
-    "work": [{
+    },
+    {
+      "school": "UNISA",
+      "degree": "Programme in Purchasing & Supply Management",
+      "graduated": "September 2015",
+      "description": "Enterprise Management, Purchasing and Supply Management, Purchasing & Supply Tools,  Legal Aspects of Purchasing ,Storage & Inventory Management"
+    },
+    {
+      "school": "UNISA",
+      "degree": "Bachelor of Commerce in Informatics",
+      "graduated": " to be Completed by 2023",
+      "description": "BCom (Informatics Information Systems) studies the application and use of the computer and information systems in the organization."
+    },
+    {
+      "school": "CTU Training Solutions ",
+      "degree": "MCSD",
+      "graduated": "2002",
+      "description": "Microsoft Certified Solutions Developer, Computer Software Engineering"
+    }
+    
+  
+  
+  ],
+    "work": [
+      {
+        "company": "Hyperion Development ",
+        "title": "Code Reviewer - Freelance",
+        "years": "October 2020 - Current",
+        "description": "As a Code Reviewer. I am responsible for completing and own the quality of, the technical code reviews CogGrammer provides to our international partners (some of the biggest brands in technology,recruitment, and education headquartered in the US, UK, and Europe). A growth mindset is essential forthis position because, at any point in time, I could be invited to work on an advanced-level curriculumor a new technology stack in order to meet the requirements of our partners. Therefore, continuoustraining, further learning, and specialization is an integral part of this role."
+      },
+      
+      {
       "company": "Lasher Tools ",
       "title": "Buyer",
       "years": "March 2015 - October 2019",
@@ -86,6 +116,11 @@
         "name": "SQL",
         "level": "70%"
       },
+      {
+        "name": "C#",
+        "level": "50%"
+      },
+
       {
         "name": "Java",
         "level": "40%"
