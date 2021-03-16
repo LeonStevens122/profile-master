@@ -154,10 +154,10 @@
         "url": "https://leon-mean-rsvp.herokuapp.com/"
       },
       {
-        "title": "Tetris Game",
-        "category": "Tetris game - Built with React using Typescript",
+        "title": "MERN Blogging Application",
+        "category": "Blogging Application built using the MERN Stack",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Emacs_Tetris_vector_based_detail.svg",
-        "url": "https://secret-island-56752.herokuapp.com/"
+        "url": "https://leon-mern-blog.herokuapp.com/"
       }
     ]
   },
